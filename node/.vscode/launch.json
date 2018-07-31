@@ -7,8 +7,8 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Launch",
+            "name": "プログラムの起動",
             "program": "${workspaceFolder}/src/app.js"
-        },
+        }
     ]
 }
